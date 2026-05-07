@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "consume_sentry": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "predicates": {
+            "minecraft:custom_data": "{sentry_item:1}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "sentry:router"
+  }
+}

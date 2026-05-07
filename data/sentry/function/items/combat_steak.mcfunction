@@ -1,0 +1,1 @@
+give @p minecraft:cooked_beef[minecraft:food={nutrition:10,saturation:20.2},minecraft:custom_name={"text":"Combat Steak","italic":false,"color":"dark_red"},minecraft:lore=[{"text":"Grants temporary combat buffs","italic":false,"color":"gray"}],minecraft:custom_data={sentry_item:1,sentry_type:"combat"}]
