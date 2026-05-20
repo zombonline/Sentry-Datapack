@@ -1,0 +1,1 @@
+$give @s minecraft:honey_bottle[minecraft:food={nutrition:0,saturation:0},minecraft:custom_name={"text":"Distilled Petrichor","italic":false,"color":"blue"},minecraft:lore=[{"text":"\"The skies of Sentry bend to your will\"","italic":false,"color":"gray"}],minecraft:custom_data={sentry_item:1,sentry_type:"rain_summon"}] $(count)
