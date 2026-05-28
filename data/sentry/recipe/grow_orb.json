@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SBS",
+    "SSS"
+  ],
+  "key": {
+  "S": "minecraft:snowball",
+  "D": "minecraft:blaze_powder"
+    },
+  "result": {
+    "id": "minecraft:snowball",
+    "count": 1,
+    "components": {
+                "minecraft:custom_model_data": {"floats": [1002]},
+      "minecraft:custom_name": {"text": "Grow Orb", "italic": false, "color": "gold"},
+      "minecraft:lore": [{"text": "Even the smallest of Sentry can be made large", "italic": false, "color": "gray"}],
+      "minecraft:custom_data": {"sentry_item": 1, "sentry_type": "size_ball", "size_ball_type": "grow"}
+    }
+  }
+}
