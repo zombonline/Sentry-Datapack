@@ -1,0 +1,10 @@
+{
+  "condition": "minecraft:entity_scores",
+  "entity": "this",
+  "scores": {
+    "size_id": {
+      "min": {"type": "minecraft:score", "target": "this", "score": "size_id"},
+      "max": {"type": "minecraft:score", "target": "this", "score": "size_id"}
+    }
+  }
+}

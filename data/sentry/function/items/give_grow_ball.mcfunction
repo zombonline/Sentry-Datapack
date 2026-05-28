@@ -1,0 +1,1 @@
+$give @s minecraft:snowball[minecraft:custom_name={"text":"Grow Orb","italic":false,"color":"aqua"},minecraft:lore=[{"text":"Even the smallest of Sentry can be made large","italic":false,"color":"gray"}],minecraft:custom_data={sentry_item:1,sentry_type:"size_ball", size_ball_type:"grow"}] $(count)
