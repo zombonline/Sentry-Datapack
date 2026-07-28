@@ -1,3 +1,0 @@
-summon minecraft:wither -500 120 0
-execute positioned -500 120 0 run data merge entity @e[type=minecraft:wither,sort=nearest,limit=1,distance=..2] {Health:100.0f}
-tp @e[type=minecraft:wither,sort=nearest,limit=1] -520 120 0
